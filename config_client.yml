@@ -3,7 +3,7 @@
 spring:
   profiles: dev #开发环境
   application:
-    name: config_client
+    name: config_client_dev
 eureka:
   client:
     service-url: 
